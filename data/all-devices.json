@@ -1,0 +1,182 @@
+[
+  {
+    "type": "JER/QMX",
+    "subtype": "jericho_a0",
+    "amount": 22,
+    "moreInfo": {"mgmt": 2, "reg": 1}
+  },
+  {
+    "type": "Arad",
+    "subtype": "jericho_a0",
+    "amount": 16,
+    "moreInfo": {"mgmt": 4, "reg": 2, "gedi": 1}
+  },
+  {
+    "type": "IXIA PORTS",
+    "subtype": "jericho_a0",
+    "amount": 11,
+    "moreInfo": {"mgmt": 2, "reg": 1}
+  },
+  {
+    "type": "Arad",
+    "subtype": "fe1600_a0",
+    "amount": 24,
+    "moreInfo": {"mgmt": 2, "reg": 1, "gedi": 2}
+  },
+  {
+    "type": "Arad",
+    "subtype": "qax_a0",
+    "amount": 21,
+    "moreInfo": {"mgmt": 2, "reg": 1}
+  },
+  {
+    "type": "Arad",
+    "subtype": "fe1600_a3",
+    "amount": 22,
+    "moreInfo": {"mgmt": 3, "reg": 1, "gedi": 2}
+  },
+  {
+    "type": "IXIA PORTS",
+    "subtype": "arad_a2",
+    "amount": 14,
+    "moreInfo": {"mgmt": 1, "reg": 3, "gedi": 1}
+  },
+  {
+    "type": "JER/QMX",
+    "subtype": "arad_a1",
+    "amount": 15,
+    "moreInfo": {"mgmt": 2, "reg": 1}
+  },
+  {
+    "type": "Arad",
+    "subtype": "jericho_a1",
+    "amount": 27,
+    "moreInfo": {"mgmt": 4, "reg": 1, "gedi": 2}
+  },
+  {
+    "type": "QAX",
+    "subtype": "fe1600_a3",
+    "amount": 18,
+    "moreInfo": {"mgmt": 2, "reg": 1}
+  },
+  {
+    "type": "JER/QMX",
+    "subtype": "jericho_a0",
+    "amount": 22,
+    "moreInfo": {"mgmt": 2, "reg": 1}
+  },
+  {
+    "type": "Arad",
+    "subtype": "jericho_a0",
+    "amount": 16,
+    "moreInfo": {"mgmt": 4, "reg": 2, "gedi": 1}
+  },
+  {
+    "type": "IXIA PORTS",
+    "subtype": "jericho_a0",
+    "amount": 11,
+    "moreInfo": {"mgmt": 2, "reg": 1}
+  },
+  {
+    "type": "Arad",
+    "subtype": "fe1600_a0",
+    "amount": 24,
+    "moreInfo": {"mgmt": 2, "reg": 1, "gedi": 2}
+  },
+  {
+    "type": "Arad",
+    "subtype": "qax_a0",
+    "amount": 21,
+    "moreInfo": {"mgmt": 2, "reg": 1}
+  },
+  {
+    "type": "Arad",
+    "subtype": "fe1600_a3",
+    "amount": 22,
+    "moreInfo": {"mgmt": 3, "reg": 1, "gedi": 2}
+  },
+  {
+    "type": "IXIA PORTS",
+    "subtype": "arad_a2",
+    "amount": 14,
+    "moreInfo": {"mgmt": 1, "reg": 3, "gedi": 1}
+  },
+  {
+    "type": "JER/QMX",
+    "subtype": "arad_a1",
+    "amount": 15,
+    "moreInfo": {"mgmt": 2, "reg": 1}
+  },
+  {
+    "type": "Arad",
+    "subtype": "jericho_a1",
+    "amount": 27,
+    "moreInfo": {"mgmt": 4, "reg": 1, "gedi": 2}
+  },
+  {
+    "type": "QAX",
+    "subtype": "fe1600_a3",
+    "amount": 18,
+    "moreInfo": {"mgmt": 2, "reg": 1}
+  },
+  {
+    "type": "JER/QMX",
+    "subtype": "jericho_a0",
+    "amount": 22,
+    "moreInfo": {"mgmt": 2, "reg": 1}
+  },
+  {
+    "type": "Arad",
+    "subtype": "jericho_a0",
+    "amount": 16,
+    "moreInfo": {"mgmt": 4, "reg": 2, "gedi": 1}
+  },
+  {
+    "type": "IXIA PORTS",
+    "subtype": "jericho_a0",
+    "amount": 11,
+    "moreInfo": {"mgmt": 2, "reg": 1}
+  },
+  {
+    "type": "Arad",
+    "subtype": "fe1600_a0",
+    "amount": 24,
+    "moreInfo": {"mgmt": 2, "reg": 1, "gedi": 2}
+  },
+  {
+    "type": "Arad",
+    "subtype": "qax_a0",
+    "amount": 21,
+    "moreInfo": {"mgmt": 2, "reg": 1}
+  },
+  {
+    "type": "Arad",
+    "subtype": "fe1600_a3",
+    "amount": 22,
+    "moreInfo": {"mgmt": 3, "reg": 1, "gedi": 2}
+  },
+  {
+    "type": "IXIA PORTS",
+    "subtype": "arad_a2",
+    "amount": 14,
+    "moreInfo": {"mgmt": 1, "reg": 3, "gedi": 1}
+  },
+  {
+    "type": "JER/QMX",
+    "subtype": "arad_a1",
+    "amount": 15,
+    "moreInfo": {"mgmt": 2, "reg": 1}
+  },
+  {
+    "type": "Arad",
+    "subtype": "jericho_a1",
+    "amount": 27,
+    "moreInfo": {"mgmt": 4, "reg": 1, "gedi": 2}
+  },
+  {
+    "type": "QAX",
+    "subtype": "fe1600_a3",
+    "amount": 18,
+    "moreInfo": {"mgmt": 2, "reg": 1}
+  }
+]
